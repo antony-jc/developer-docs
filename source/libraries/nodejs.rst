@@ -12,7 +12,7 @@ Installation
 
   The main Sphere API object. 
 
-.. note:: The Ninja.Sphere object is not syncronous, and instead is similar to promises in that the query is built via a series of chained functions and finally executed once the promise has resolved.
+.. note:: The Ninja.Sphere object is not synchronous, and instead is similar to promises in that the query is built via a series of chained functions and finally executed once the promise has resolved.
 
 For Example:
 
